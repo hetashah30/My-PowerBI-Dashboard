@@ -1,87 +1,62 @@
-# My-PowerBI-Dashboard
-
 # 📊 Job Market Analysis Dashboard - Power BI Project
 
-Welcome to the **Job Market Analysis Dashboard** Power BI project! This interactive and data-driven dashboard provides insightful visualizations to analyze various aspects of the job market, helping stakeholders make informed decisions.
-
-![Power BI Banner](https://user-images.githubusercontent.com/your-image-placeholder/banner.jpg)
+Welcome to the **Job Market Analysis Dashboard** Power BI project! This dynamic and visually compelling report was built using Microsoft Power BI to provide meaningful insights into the current job market—helping job seekers, HR teams, and analysts make smarter, data-informed decisions.
 
 ---
 
-## 🚀 Project Overview
+## 🎥 Video Walkthrough
 
-This Power BI report is designed to explore and analyze job market trends, company hiring patterns, in-demand job roles, industry requirements, and skillset analytics. The dataset has been transformed and modeled to deliver dynamic insights through a visually appealing dashboard interface.
+Get a quick tour of the dashboard in action:
 
-### 🔍 Key Focus Areas:
-- **Top Hiring Companies**
-- **Job Role Distribution**
-- **Salary Analysis**
-- **Job Locations**
-- **Required Skills & Technologies**
-- **Employment Type Trends**
-- **Industry-specific Demand**
+[![Watch the demo](https://github.com/hetashah30/My-PowerBI-Dashboard/blob/main/thumbnail.png)](https://youtu.be/putet3NVjSg)
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🖼️ Dashboard Preview
 
-- **Power BI Desktop** (Report creation and data modeling)
-- **DAX (Data Analysis Expressions)** for custom calculations
-- **Power Query Editor** for data transformation
-- **Data Sources**: (e.g., Kaggle, LinkedIn Job Listings, CSV/Excel-based dataset)
+![Job Market Dashboard](https://github.com/hetashah30/My-PowerBI-Dashboard/blob/main/dashboard.png)
 
 ---
 
-## 📈 Dashboard Features
+## 📌 Project Overview
 
-### 1. **Top Hiring Companies**
-- Bar chart showcasing companies with the highest number of job openings.
-- Filterable by location, job type, and industry.
+This dashboard highlights crucial analytics across job listings, enabling users to:
 
-### 2. **In-Demand Job Roles**
-- Dynamic visuals highlighting the most advertised roles.
-- Drill-down enabled for deeper insights.
+- Identify **top hiring companies**
+- Discover **most in-demand job roles**
+- Analyze **salary trends** across roles and cities
+- Visualize **job location hotspots**
+- Uncover **frequently required skills and technologies**
 
-### 3. **Salary Distribution**
-- Box plots and histograms for salary range analysis.
-- Categorized by job roles, experience level, and geography.
-
-### 4. **Skillset Demand**
-- Word cloud and stacked bar chart of frequently required skills.
-- Real-time filtering to explore demand per sector or location.
-
-### 5. **Job Location Heatmap**
-- Geographical visualization using a map chart.
-- Heat zones indicate job density across cities or countries.
-
-### 6. **Employment Type Breakdown**
-- Pie and donut charts showing distribution of full-time, part-time, remote, and freelance roles.
+Built with intuitive navigation and interactive filters, this tool is designed to assist job seekers and businesses in tracking real-time market trends.
 
 ---
 
-## 📊 Sample Dashboard Previews
+## 📈 Features & Insights
 
-| Top Hiring Companies | Salary Distribution |
-|----------------------|---------------------|
-| ![chart1](https://user-images.githubusercontent.com/your-image-placeholder/hiring.jpg) | ![chart2](https://user-images.githubusercontent.com/your-image-placeholder/salary.jpg) |
-
-*Note: Images are placeholders. You can upload screenshots from your report to GitHub and link them here.*
-
----
-
-## 🧠 Insights Derived
-
-- **Data-Driven Hiring Decisions**: Identify sectors with booming opportunities.
-- **Skill Gaps & Trends**: Align personal or organizational training to match industry demands.
-- **Location Strategy**: Understand the best cities/regions for specific job domains.
+- ✅ **Top Companies Hiring** – Who’s hiring and how much?
+- ✅ **Role & Industry Analysis** – Which roles and industries dominate?
+- ✅ **Salary Insights** – Explore salary ranges based on role/location.
+- ✅ **Location Trends** – See where jobs are concentrated.
+- ✅ **Skill Demand** – Analyze what skills recruiters look for most.
 
 ---
 
-## 📂 File Structure
+## 🛠️ Tech Stack
+
+- **Power BI Desktop**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Interactive Charts & Filters**
+- **External Dataset(s)** (CSV, Excel, or API-fed job listings)
+
+---
+
+## 🗂️ File Structure
 
 ```bash
 .
-├── job.pbix                # Power BI Report File
-├── README.md               # Project Documentation
-├── assets/                 # Screenshots and images (optional)
-└── dataset/                # Source datasets (optional if public)
+├── job.pbix                    # Power BI Report File
+├── dashboard.png              # Dashboard Image Preview
+├── thumbnail.png              # Thumbnail for YouTube Link
+├── README.md                  # Project Documentation
