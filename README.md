@@ -7,6 +7,7 @@ Welcome to the **Job Market Analysis Dashboard** Power BI project! This dynamic 
 ## 🎥 Video Walkthrough
 
 Get a quick tour of the dashboard in action:
+Click On Image Below for video:
 
 [![Watch the demo](https://github.com/hetashah30/My-PowerBI-Dashboard/blob/main/thumbnail.png)](https://youtu.be/putet3NVjSg)
 
